@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-Watch my *[DEMO VIDEOS!](https://www.facebook.com/100003148183695/videos/3889284381186463/)
+Watch my *[DEMO VIDEOS!](https://www.facebook.com/100003148183695/videos/3889284381186463/)*
 
 ## Projects Source Codes:
 * [Breakout Game](https://github.com/fish159753/python_projects/blob/main/SC101_Assignment2%E2%80%93%E5%90%B3%E9%89%A6%E5%BF%A0/breakout_extensions%20.py)
