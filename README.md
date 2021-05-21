@@ -6,6 +6,10 @@ Watch my *[DEMO VIDEOS!](https://www.facebook.com/100003148183695/videos/3889284
 
 ## Projects Source Codes:
 * [Breakout Game](https://github.com/fish159753/python_projects/blob/main/SC101_Assignment2%E2%80%93%E5%90%B3%E9%89%A6%E5%BF%A0/breakout_extensions%20.py)
-* [stanCodeshop](https://github.com/fish159753/python_projects/blob/main/SC101_Assignment3%EF%BC%BF%E5%90%B3%E9%89%A6%E5%BF%A0/stanCodoshop.py)
-* [Babyname](https://github.com/fish159753/python_projects/blob/main/SC101_Assignment4_%E5%90%B3%E9%89%A6%E5%BF%A0/babynames.py)
+  * Animation & game designing
+* [Myphotoshop](https://github.com/fish159753/python_projects/blob/main/SC101_Assignment3%EF%BC%BF%E5%90%B3%E9%89%A6%E5%BF%A0/stanCodoshop.py)
+  * Image processing
+* [Name Popularity Searching System](https://github.com/fish159753/python_projects/blob/main/SC101_Assignment4_%E5%90%B3%E9%89%A6%E5%BF%A0/babynames.py)
+  * Data structure
 * [Boggle Game Solver](https://github.com/fish159753/python_projects/blob/main/SC101_Assignment5_%E5%90%B3%E9%89%A6%E5%BF%A0/boggle.py)
+  * Recursive functions
