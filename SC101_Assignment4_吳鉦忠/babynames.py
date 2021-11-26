@@ -1,8 +1,4 @@
 """
-SC101 Baby Names Project
-Adapted from Nick Parlante's Baby Names assignment by
-Jerry Liao.
-
 According to the main coding, to control the name data.
 """
 
