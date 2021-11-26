@@ -1,12 +1,4 @@
 """
-File: breakout.py
-Name: Andy Wu
-------------------------------
-stanCode Breakout Project
-Adapted from Eric Roberts's Breakout by
-Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
-and Jerry Liao.
-
 According to the package 'breakoutgraphics', to execute the breakout.
 """
 
