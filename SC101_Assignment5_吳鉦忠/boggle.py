@@ -1,7 +1,4 @@
 """
-File: boggle.py
-Name: Andy Wu
-----------------------------------------
 Input 4x4 letters and output any word in the 4x4 letter.
 """
 
