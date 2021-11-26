@@ -1,12 +1,4 @@
 """
-File: breakout_extensions.py
-Name: Andy Wu
-------------------------------
-stanCode Breakout Project
-Adapted from Eric Roberts's Breakout by
-Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
-and Jerry Liao.
-
 Add " the Bomb " to bomb the row of the bricks by mouse clicked.
 Extra add the loser broad.
 """
