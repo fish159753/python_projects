@@ -1,13 +1,5 @@
 """
-File: stanCodoshop.py
-----------------------------------------------
-SC101_Assignment3
-Adapted from Nick Parlante's
-Ghost assignment by Jerry Liao.
-
------------------------------------------------
-
-TODO:
+This is simple Photoshop to combine with background and figure.
 """
 
 import os
