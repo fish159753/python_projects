@@ -13,3 +13,5 @@ Watch my *[DEMO VIDEOS!](https://www.facebook.com/100003148183695/videos/3889284
   * Data structure (tkinter for GUI)
 * [Boggle Game Solver](https://github.com/fish159753/python_projects/blob/main/SC101_Assignment5_%E5%90%B3%E9%89%A6%E5%BF%A0/boggle.py)
   * Recursive functions (Backtracking)
+* [Web Crawler](https://github.com/fish159753/python_projects/blob/main/web_crawler.py)
+  * Searching (Requests and BeautifulSoup)
