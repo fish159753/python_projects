@@ -1,8 +1,4 @@
 """
-SC101 Baby Names Project
-Adapted from Nick Parlante's Baby Names assignment by
-Jerry Liao.
-
 Assign the background.
 """
 
