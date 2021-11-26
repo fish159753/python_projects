@@ -1,14 +1,5 @@
 """
-File: breakoutgraphics.py
-Name: Andy Wu
-------------------------------
-stanCode Breakout Project
-Adapted from Eric Roberts's Breakout by
-Sonja Johnson-Yu, Kylie Jue, Nick Bowman, 
-and Jerry Liao
-
 To deal with the game of the graphics.
-
 """
 from campy.graphics.gwindow import GWindow
 from campy.graphics.gobjects import GOval, GRect, GLabel
