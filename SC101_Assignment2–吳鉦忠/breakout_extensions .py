@@ -33,6 +33,17 @@ def main():
                     vy = - vy
                 if graphics.ball.y + graphics.ball.height < graphics.paddle.y:
                     # Remove the bricks.
+                    """
+                    ballx = int(graphics.ball.x)
+                    bally = int(graphics.ball.y)
+                    for x in range (ballx,ballx+2*BALL_RADIUS+1,2*BALL_RADIUS):
+                        for y in range(bally, bally + 2 * BALL_RADIUS + 1, 2 * BALL_RADIUS):
+                            graphics.window.get_object_at(x,y)
+                            vy = - vy
+                            graphics.score += 1
+                            graphics.score_speed += 1
+                            graphics.score_label.text = 'Score: ' + str(graphics.score)
+                    """
                     if graphics.ball.y > graphics.life_label.y and graphics.window.get_object_at(graphics.ball.x, graphics.ball.y) is not None:
                         graphics.window.remove(graphics.window.get_object_at(graphics.ball.x, graphics.ball.y))
                         vy = - vy
